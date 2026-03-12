@@ -29,6 +29,9 @@ The Parking Lot Management System is built to simplify parking management for pa
 - HTML
 - CSS
 - JavaScript
+- React
+- Tailwind
+- JSX
 
 **Backend**
 - Node.js
